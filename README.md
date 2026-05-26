@@ -3,7 +3,7 @@
 An intelligent, automated job application system that searches for Data Analyst roles, extracts recruiter contacts, generates tailored emails, and creates Gmail drafts with your resume attached.
 
 ---
-![Agent in Action](screenshots/screenshot_1.png)
+[Agent in Action](screenshots/Screenshot_1.png)
 
 ## 📍 Problem Statement
 
@@ -37,7 +37,8 @@ I built this system to **automate the repetitive part** of job hunting while kee
 ---
 
 ## 📁 Project Structure
-job-automation/
+job-automation-agent/
+
 ├── main.py                    # Runs full pipeline
 ├── search_jobs.py             # Job searching
 ├── extract_contacts.py        # Contact extraction

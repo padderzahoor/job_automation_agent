@@ -1,0 +1,22 @@
+# .gitignore
+
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Environment Variables & Secrets
+.env
+credentials.json
+token.pickle
+
+# Data files (optional - you can commit jobs.csv if you want)
+*.log
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large files
+*.pdf
